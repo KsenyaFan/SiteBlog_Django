@@ -1,0 +1,44 @@
+.my-nav {
+    background-color: #262512;
+    color: #3E2C23;
+}
+
+body {
+    background-color: #C6B7A8;
+    color: #3E2C23;
+    font-family: Arial, sans-serif;
+}
+
+.carousel-item {
+    height: 20rem;
+}
+.my-carousel {
+    padding: 0;
+}
+
+.my-carousel h5{
+    font-size: 60px;
+}
+
+.my-carousel p{
+    font-size: 30px;
+}
+.carousel-caption {
+    bottom: 100px;
+}
+
+.carousel-item {
+    height: 20rem;
+}
+
+.my-footer {
+    background-color: #8D7E62;
+}
+
+.row {
+  flex-wrap: wrap;
+}
+
+.d-flex {
+    display: inline;
+}
